@@ -74,5 +74,4 @@ Convertirme en un desarrollador backend sólido especializado en bases de datos 
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RonnyRuizJimenez1&theme=dark" />
 </p>
